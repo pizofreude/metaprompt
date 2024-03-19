@@ -4,7 +4,7 @@ Community Metaprompt is open source community journey with AI-powered prompt gen
 
 Forget about complex prompt engineering frameworks and intricate "tricks." It's time to embrace a simpler approach – just provide a concise description of what you need, and let the advanced AI system handle the rest.
 
-If you have a friend who has been obsessively collecting LinkedIn endorsements for prompt engineering, it might be a good idea to suggest they take a break. The era of manual prompt crafting is coming to an end.
+If you have a friend who has been obsessively collecting LinkedIn endorsements for prompt engineering, it might be a good idea to suggest they take a break. The era of manual prompt crafting is coming to an end. Touché.
 
 Here's what you should know about the revolutionary metaprompt:
 
